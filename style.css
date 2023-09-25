@@ -1,0 +1,479 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    padding-left: 30px;
+    margin: 10px 729px -25px 80px ;
+    
+    
+}
+.menu a {
+  width: 100vh;
+  height: 15vh;
+  margin: auto;
+  align-items: center;
+  color: black;
+  padding: 20px;
+  margin: 0px -22px 0px 50px;
+  text-decoration: none;
+}
+.menu{
+  margin: 0px 158px 0px 254px ;
+}
+
+
+.icon{
+   background-color: black;
+   height: 40px;
+   width: 130px;
+   color: yellow;
+   border-radius: 20px;
+   margin: -30px 0px 30px 1039px ;
+   cursor: pointer;
+   
+}
+.container{
+  margin: 2px 0px 0px 90px;
+}
+.container h{
+  font-size: 50px;
+  font-weight: 900;
+  padding: 20px;
+  /* margin-left: 90px;
+  margin-bottom: 30px; */
+}
+#masseging{
+  height: 69px;
+  width: 313px;
+  background-color: yellow;
+  text-align: center;
+  font-size: 50px;
+  font-weight: 900;
+  margin: 65px 51px -70px 259px;
+  
+}
+.container button{
+  background-color: black;
+   height: 40px;
+   width: 130px;
+   color: yellow;
+   border-radius: 20px;
+   cursor: pointer;
+   margin: 40px 0px 0px 0px ;
+}
+
+#img{
+  width: 460px;
+  height: 460px;
+  margin: -378px 0px 96px 800px;
+
+
+}
+.navbar{
+  width: 1300px;
+  height: 2000px;
+  background-color: black;
+  margin: -100px 0px 0px 0px;
+}
+.navbar h3{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700px;
+    padding-top: 100px;
+}
+.container1{
+  width: 350px;
+  height: 400px;
+  background-color: white;
+  border-radius: 10px;
+  margin: 75px 0px 0px 860px ;
+}
+.container2{
+  width: 350px;
+  height: 400px;
+  background-color: white;
+  border-radius: 10px;
+  margin: -400px 0px 0px 479px ;
+}
+.container3{
+  width: 350px;
+  height: 400px;
+  background-color: white;
+  border-radius: 10px;
+  margin: -400px 0px 0px 99px ;
+}
+.container3 h3{
+  font-size: 20px;
+  color: black;
+  padding-right:90px;
+  font-weight: 600;
+  padding-top: 20px;
+}
+.container3 p{
+  font-size: 20px;
+  color: black;
+  padding-left: 20px;
+  margin-top: 10px;
+}
+.container3 img{
+  width: 357px;
+
+}
+
+.container2 h3{
+  font-size: 20px;
+  color: black;
+  padding-right:156px;
+  font-weight: 600;
+  padding-top: 20px;
+}
+.container2 p{
+  font-size: 20px;
+  color: black;
+  padding-left: 20px;
+  margin-top: 10px;
+}
+.container2 img{
+  width: 372px;
+}
+
+.container1 h3{
+  font-size: 20px;
+  color: black;
+  padding-right:90px;
+  font-weight: 600;
+  padding-top: 20px;
+}
+.container1 p{
+  font-size: 20px;
+  color: black;
+  padding-left: 20px;
+  margin-top: 10px;
+}
+.container1 img{
+  width: 333px;
+  height: 277px;
+}
+.container4{
+  width: 576px;
+  height: 200px;
+  background-color: white;
+  border-radius: 10px;
+  margin: -1299px 0px 0px 636px ;
+}
+.container4 h3{
+  font-size: 20px;
+  color: black;
+  padding-left:20px;
+  font-weight: 600;
+  padding-top: 20px;
+}
+  
+.container4 p{
+  font-size: 20px;
+  color: black;
+  padding-left: 20px;
+  margin-top: 10px;
+}
+.container4 img{
+  width: 238px;
+  height: 185px;
+  margin: -99px 0px 0px 328px;
+}
+
+.container5{
+  width: 576px;
+  height: 200px;
+  background-color: white;
+  border-radius: 10px;
+  margin: 26px 0px 0px 636px ;
+}
+.container5 h3{
+  font-size: 20px;
+  color: black;
+  padding-left:20px;
+  font-weight: 600;
+  padding-top: 20px;
+}
+  
+.container5 p{
+  font-size: 20px;
+  color: black;
+  padding-left: 20px;
+  margin-top: 10px;
+}
+.container5 img{
+  width: 224px;
+  height: 160px;
+  margin: -75px 0px 0px 356px;
+}
+
+.container6{
+  width: 514px;
+  height: 427px;
+  background-color: white;
+  border-radius: 10px;
+  margin: -427px 0px 0px 98px ;
+}
+
+.container6 h3{
+  font-size: 20px;
+  color: black;
+  padding-left:20px;
+  font-weight: 600;
+  padding-top: 20px;
+}
+  
+.container6 p{
+  font-size: 20px;
+  color: black;
+  padding-left: 20px;
+  margin-top: 10px;
+}
+.container6 img{
+  width: 432px;
+  height: 246px;
+  margin: 51px 0px 0px 24px;
+}
+
+#features{
+  background-color: yellow;
+  height: 48px;
+  width: 149px;
+  color: black;
+  border-radius: 38px;
+  margin: 53px 0px 30px 557px ;
+  cursor: pointer;
+}
+#p{
+  font-size: 15px;
+  color:white;
+  padding-left: 411px;
+  
+}
+
+.container7{
+  width: 900px;
+  height: 273px;
+  background-color: yellow;
+  border-radius: 30px;
+  margin: 100px 0px 0px 200px ;
+
+}
+
+.container7 h4{
+  font-size: 36px;
+  color: black;
+  padding-left:20px;
+  font-weight: 600;
+  padding-top: 20px;
+}
+  
+.container7 p{
+  font-size: 15px;
+  color: black;
+  padding-left: 15px;
+  margin-top: 45px;
+}
+.container7 button{
+  background-color:black;
+  height: 48px;
+  width: 149px;
+  color: yellow;
+  border-radius: 38px;
+  margin: 27px 0px 30px 24px ;
+  cursor: pointer;
+
+}
+.container7 img{
+  width: 457px;
+  height: 408;
+  margin: -351px 0px 0px 497px;
+}
+.group{
+  width: 1300px;
+  height: 650px;
+  background-color: black;
+
+}
+.text{
+  margin: 130px 0px 30px 107px;
+}
+.text h2{
+  color: yellow;
+  font-size: 40px;
+  
+}
+.text p{
+  color: white;
+  margin-top: 20px;
+  font-size: 12px;
+
+
+}
+#p1{
+  color: yellow;
+  font-size: 12px;
+}
+.links{
+  color: white;
+  margin: -157px 0px 0px 367px;
+
+}
+.links p{
+  font-size: 12px;
+  margin-top: 30px;
+}
+#a{
+  color: white;
+  font-size: 12px;
+  
+}
+#a:hover{
+  color:yellow;
+  cursor: pointer;
+  
+}
+.links1{
+  color: white;
+  margin: -105px 0px 0px 543px;
+
+}
+
+.links1 p{
+  font-size: 12px;
+  margin-top: 30px;
+}
+#a1{
+  color: white;
+  font-size: 12px;
+  
+}
+#a1:hover{
+  color: yellow;
+  cursor: pointer;
+
+}
+#a2:hover{
+  color: yellow;
+  cursor: pointer;
+
+}
+#a3:hover{
+  color: yellow;
+  cursor: pointer;
+
+}
+#a4:hover{
+  color: yellow;
+  cursor: pointer;
+
+}
+
+.links2{
+  color: white;
+  margin: -238px 0px 0px 721px;
+
+}
+
+.links2 p{
+  font-size: 12px;
+  margin-top: 30px;
+}
+
+#b1:hover{
+  color: yellow;
+  cursor: pointer;
+
+}
+#b2:hover{
+  color: yellow;
+  cursor: pointer;
+
+}
+#b3:hover{
+  color: yellow;
+  cursor: pointer;
+
+}
+#b4:hover{
+  color: yellow;
+  cursor: pointer;
+
+}
+#b5:hover{
+  color: yellow;
+  cursor: pointer;
+
+}
+
+.links3{
+  color: white;
+  margin: -238px 0px 0px 881px;
+
+}
+
+.links3 p{
+  font-size: 12px;
+  margin-top: 30px;
+}
+
+#c1:hover{
+  color: yellow;
+  cursor: pointer;
+
+}
+#c2:hover{
+  color: yellow;
+  cursor: pointer;
+
+}
+#c3:hover{
+  color: yellow;
+  cursor: pointer;
+
+}
+#c4:hover{
+  color: yellow;
+  cursor: pointer;
+
+}
+#c5:hover{
+  color: yellow;
+  cursor: pointer;
+
+}
+#c6:hover{
+  color: yellow;
+  cursor: pointer;
+
+}
+#c7:hover{
+  color: yellow;
+  cursor: pointer;
+
+}
+#c8:hover{
+  color: yellow;
+  cursor: pointer;
+
+}
+#c9:hover{
+  color: yellow;
+  cursor: pointer;
+
+}
+#h4{
+  margin-top: 30px;
+}
+#footer{
+  color: white;
+  font-size: 12px;
+  margin: 50px;
+}
+
+
